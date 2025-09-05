@@ -81,9 +81,14 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+**1. Repositório selecionado:** https://github.com/SeleniumHQ/selenium.git
+
+**2. Gráfico selecionado:** 
+
+<img width="834" height="404" alt="image" src="https://github.com/user-attachments/assets/ff9de83b-e508-443e-be6c-b6673dbaa292" />
+
+
+**3. Explicação:** O Selenium é uma ferramenta desenvolvida majoritariamente em Java, e é usada para a automação de testes de aplicações web. Seu código como um todo possui pouco mais de 170 mil linhas de código registradas em 2025. Dessas linhas, algumas são comentários, como pode ser observado no gráfico acima. É possível notar pela imagem que a quantidade de comentários em linha caiu de 25932 (2020) para 22190 (2025), enquanto que a quantia de comentários em bloco manteve-se quase estável, com uma pequena diferença de 1555 (2020) para 1368 (2025). Essa queda, principalmente referente aos comentários em linha, pode indicar que houve uma refatoração no código do Selenium, visto que os comentários não fossem mais necessários após deixar o código mais autoexplicativo, com nomes de variáveis, funções e classes de claro entendimento. Além disso, devido à estabilidade, pode-se concluir que os desenvolvedores se preocuparam em não lotar o programa com comentários desnecessários, usando apenas aqueles que fossem precisos. Portanto, as curvas demonstram que boas práticas foram aplicadas no desenvolvimento da ferramenta, e que a busca por um código mais limpo está sendo realizada por seus desenvolvedores.
 
 
 
